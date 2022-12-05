@@ -1,0 +1,9 @@
+
+h2 {
+  color: black;
+}
+input[type='color'] {
+  border: none !important;
+  background: transparent;
+  border-radius: 10px;
+}

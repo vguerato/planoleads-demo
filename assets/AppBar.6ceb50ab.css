@@ -1,0 +1,104 @@
+
+.profile-name[data-v-835cfdaa] {
+  line-height: 17px;
+}
+@media screen and (max-width: 768px) {
+.profile-chip .profile-name[data-v-835cfdaa] {
+    order: 1;
+    text-align: left;
+}
+}
+
+.q-item[data-v-743fb685] {
+  padding: 0.75rem 1.5rem;
+}
+@media screen and (max-width: 768px) {
+.q-item[data-v-743fb685] {
+    padding: 0.25rem 0;
+}
+}
+.app-bar[data-v-d630ed38] {
+  background-color: #FAE500 !important;
+}
+.app-bar .logo[data-v-d630ed38] {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  content: url("logo.png");
+}
+.app-bar .nav .q-item[data-v-d630ed38] {
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+}
+.app-bar .leads-counter span[data-v-d630ed38]:first-child::after {
+  content: "/";
+  margin: 0 0.25rem;
+}
+.app-bar .actions > .q-list > .q-item[data-v-d630ed38] {
+  padding: 0 15px !important;
+}
+@media screen and (max-width: 1024px) {
+.toolbar[data-v-d630ed38] {
+    justify-content: center;
+}
+.q-list .q-item[data-v-d630ed38] {
+    width: 100%;
+    text-align: left !important;
+    padding: 0.5rem 0 !important;
+}
+.logo[data-v-d630ed38] {
+    max-width: 30px;
+    content: url("logo-mini.png");
+}
+}
+@media screen and (max-width: 768px) {
+.main-menu[data-v-d630ed38] {
+    flex-direction: column;
+}
+.main-menu .route-nav[data-v-d630ed38] {
+    width: 100%;
+    justify-content: space-between;
+}
+.main-menu .route-nav .q-toolbar-title[data-v-d630ed38] {
+    width: 100px;
+}
+.main-menu .route-nav .q-item[data-v-d630ed38] {
+    padding: 0 !important;
+}
+.main-menu .actions[data-v-d630ed38] {
+    flex: 1 1 auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-menu .actions > .q-list[data-v-d630ed38] {
+    width: 100%;
+    flex-direction: column;
+}
+.main-menu .actions > .q-list > .q-item[data-v-d630ed38] {
+    width: 100%;
+    padding: 0;
+    color: black;
+}
+.main-menu .faq-btn[data-v-d630ed38] {
+    order: 2;
+    flex: 0 0 auto;
+}
+.main-menu .profile-menu-btn[data-v-d630ed38] {
+    flex: 1 1 auto;
+}
+.main-menu .profile-card[data-v-d630ed38] {
+    margin-top: 1rem;
+    padding: 1rem;
+}
+}
+@media only screen and (min-width: 769px) {
+.main-menu .actions > *[data-v-d630ed38] {
+    margin: 0 0.5rem;
+}
+.main-menu .profile-card[data-v-d630ed38] {
+    border: none;
+}
+}

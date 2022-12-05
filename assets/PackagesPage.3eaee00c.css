@@ -1,0 +1,43 @@
+
+.bg-pedidos[data-v-69895619] {
+  background-image: url(/assets/bg-packges.c3509c61.png);
+  background-repeat: no-repeat;
+  background-size: auto 34.5%;
+}
+.q-btn-group[data-v-69895619] {
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 1px solid rgba(0, 0, 0, 0.7);
+}
+.q-btn-group .q-btn[data-v-69895619],
+.q-btn-group .q-btn[data-v-69895619]::before {
+  border-radius: 100px !important;
+}
+.q-carousel[data-v-69895619] {
+  height: unset;
+}
+.q-expansion-item[data-v-69895619] {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+thead td[data-v-69895619] {
+  vertical-align: bottom;
+}
+table tbody tr:first-child td[data-v-69895619] {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+table tbody tr td[data-v-69895619]:nth-child(2),
+table tbody tr td[data-v-69895619]:nth-child(3) {
+  box-shadow: -1px 7px 5px rgba(0, 0, 0, 0.1);
+  z-index: 0;
+}
+table tbody tr td[data-v-69895619]:nth-child(3),
+table tbody tr td[data-v-69895619]:nth-child(4) {
+  box-shadow: 1px 7px 5px rgba(0, 0, 0, 0.1);
+  z-index: 0;
+}
+.text-underline[data-v-69895619] {
+  text-decoration: underline;
+}
+.table-shadow[data-v-69895619] {
+  box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+}
